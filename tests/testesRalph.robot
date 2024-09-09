@@ -44,7 +44,7 @@ Navegar ForumOFF
     [Tags]    menuoff
     Open Browser    https://forumoff.com    Firefox
     Maximize Browser Window
-    Fazer Login    maradona    R@lph51!
+    Fazer Login    login    senha
     Acessar menu    Meus Anexos
     Close Browser
 
